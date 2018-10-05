@@ -19,6 +19,7 @@
 
     &__img {
         display: block;
+        
         &--1 {
             width: 100%;
             grid-row: 2 / 6;
@@ -41,7 +42,6 @@
             @media only screen and (max-width: $bp-medium) {
                 width: 100%;
                 grid-row: 1 / -1;
-
             }
         }
     }
