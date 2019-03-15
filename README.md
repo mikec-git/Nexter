@@ -18,7 +18,7 @@ npm install npm@latest -g
 **Download and Install Project Files**
 1) Clone the repo
 ```
-git clone https://github.com/mikec-git/YelpCamp.git
+git clone https://github.com/mikec-git/Nexter.git
 ```
 
 2) Run npm install inside the project root directory to get required dependencies
