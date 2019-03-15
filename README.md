@@ -1,5 +1,5 @@
 # [Nexter](https://mikec-git.github.io/Nexter/)
-This is a realty landing page project using advanced Sass, CSS, and HTML concepts.
+This is a realty landing page project created using advanced Sass, CSS, and HTML concepts.
 
 ## Contributor
 Mike Choi - Developer
